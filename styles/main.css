@@ -40,7 +40,7 @@ header .logo {
 header form {
   display: inline-block;
   height: 36px;
-  width: 25.8%;
+  width: 343px;
   float: left;
   margin-top: 23px;
   border-radius: 3px;
@@ -65,7 +65,8 @@ header input:focus {
 header .srchBtn {
   display: inline-block;
   width: 95px;
-  position: fixed;
+  right: 0;
+  margin-right: 0;
   height: 35px;
   margin-left: 7.5px;
   border-top-right-radius: 2px;
