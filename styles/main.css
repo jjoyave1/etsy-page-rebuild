@@ -561,7 +561,8 @@ header .head-nav .cart-link .cart-btn:hover {
   width: auto;
   float: right;
   margin-right: 5px;
-  background: transparent; }
+  background: transparent;
+  line-height: 1.75em; }
 
 .wrapper section .imgCard .user-link:hover {
   text-decoration: underline; }
