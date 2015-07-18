@@ -1,5 +1,10 @@
-#ETSY PAGE REBUILD by Joe Joyave
+#ETSY PAGE REBUILD
+*by Joe Joyave*
 
-##This project is a reconstruction of a standard search on etsy.  The initial stage of the project is a mere recreation of an unfiltered search, using Etsy's standard Javascript object list.
+This project is a reconstruction of the loaded page that occurs a standard search on etsy (searching "Whiskey"); an unfiltered search, using Etsy's standard Javascript object list.
 
+deployed: http://jjoyave1.github.io/etsy-page-rebuild
+
+Tools used:
+HTML, CSS, Bourbon, Neat, JavaScript, jQuery
 
